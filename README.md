@@ -2,9 +2,8 @@
 
 J'ai rassemblés mes notes dans les readme des différents modules. Elles peuvent constituer un bon point de départ avant de se lancer dans la résolution des exercices.
 
-- **CPP05** : Introduction aux exceptions personnalisées et classes imbriquées avec surcharge de l'opérateur `<<` pour les objets.
-- **CPP06** : Conversions de types en C++ (casts statiques, dynamiques, reinterpret_cast, const_cast) et opérateurs de conversion dans les classes.
-- **CPP07** : Templates génériques en C++, avec spécialisation, valeurs par défaut et manipulation avancée via fonctions et classes templates.
-- **CPP08** : Exploration des conteneurs de la STL (vector, deque, stack, queue, map) et des algorithmes standards avec foncteurs et prédicats.
-- **CPP09** : Manipulation avancée des itérateurs, flux (ostringstream, istringstream) et implémentation d’algorithmes de tri comme merge sort et insertion sort.
-
+- [**CPP05**](https://github.com/FXC-ai/cpp_module_2/tree/main/cpp05) : Introduction aux exceptions personnalisées, classes imbriquées et surcharge de l'opérateur `<<`.
+- [**CPP06**](https://github.com/FXC-ai/cpp_module_2/tree/main/cpp06) : Conversions de types (`static_cast`, `dynamic_cast`, `reinterpret_cast`, `const_cast`) et opérateurs de conversion dans les classes.
+- [**CPP07**](https://github.com/FXC-ai/cpp_module_2/tree/main/cpp07) : Templates génériques, spécialisation partielle ou totale, types par défaut et manipulation par fonctions génériques.
+- [**CPP08**](https://github.com/FXC-ai/cpp_module_2/tree/main/cpp08) : Conteneurs STL (vector, deque, stack, queue, map), itérateurs, foncteurs, prédicats et algorithmes standards.
+- [**CPP09**](https://github.com/FXC-ai/cpp_module_2/tree/main/cpp09) : Manipulation avancée des flux, back_insert_iterator, ostringstream, istringstream et algorithmes de tri (merge sort, insertion sort).
